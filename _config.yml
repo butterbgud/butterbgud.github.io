@@ -1,11 +1,10 @@
 # _config.yml
 title: butterbgud
-email: butterbgud@example.com
+email: lumtrav@gmail.com
 description: >-
-  Just a test site.
+  Pointer to my pet projects
 baseurl: ""
 url: "https://butterbgud.github.io"
-twitter_username: butterbgud
 github_username:  butterbgud
 
 # Minima theme settings
