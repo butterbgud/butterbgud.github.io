@@ -1,5 +1,14 @@
 # _config.yml
-title: Test Site
+title: butterbgud
+email: butterbgud@example.com
+description: >-
+  Just a test site.
+baseurl: ""
+url: "https://butterbgud.github.io"
+twitter_username: butterbgud
+github_username:  butterbgud
+
+# Minima theme settings
 theme: minima
 plugins:
   - jekyll-feed
@@ -7,3 +16,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-avatar
+
+# Footer content comes from these variables in Minima
+author: butterbgud
